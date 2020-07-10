@@ -1,0 +1,37 @@
+{
+  "posts": [
+{
+        "id": "1",
+        "nombre": "Almacen \"La Cofradia Feliz\"",
+        "categoriasAlt": "Almacen, Comidas, Articulos de Limpieza",
+        "categoriaMain": "mercado",
+        "banner": "https://fakeimg.pl/350x200/?text=LaCofradia",
+        "shortDesc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+        "textDesc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\r\nThis impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\r\nThis impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+        "userId": "1"
+    },
+    {
+        "id": "2",
+        "nombre": "BurgerKing",
+        "categoriasAlt": "Comidas, Rotiseria, Take Away, Delivery",
+        "categoriaMain": "comidas",
+        "banner": "https://fakeimg.pl/350x200/?text=BurgerKing",
+        "shortDesc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+        "textDesc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\r\nThis impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\r\nThis impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+        "userId": "2"
+    },
+    {
+        "id": "3",
+        "nombre": "Victor Hugo Cachetin",
+        "categoriasAlt": "Electricista, Plomero, Jardinero",
+        "categoriaMain": "oficios",
+        "banner": "https://fakeimg.pl/350x200/?text=Cachetin",
+        "shortDesc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+        "textDesc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\r\nThis impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\r\nThis impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+        "userId": "3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
